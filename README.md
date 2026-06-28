@@ -4,8 +4,7 @@ A full-stack web application for reporting and managing municipal solid waste re
 
 ## 🚀 Live Deployment
 
-- 🌐 Deployed App: https://solid-waste-management-application-d0al.onrender.com
-
+- 🌐 Deployed App: https://ecovision-kxg9.onrender.com
 ## 🛠️ Tech Stack
 
 ### ⚙️ Backend
