@@ -25,7 +25,7 @@ app.use(cors());
 
 // A simple test route to see if the server is alive
 app.get('/', (req, res) => {
-    res.send('Solid Waste Management API is running...');
+    res.send('EcoVision API is running...');
 });
 // Mount the routes
 app.use('/api/v1/auth', require('./routes/authRoutes'));

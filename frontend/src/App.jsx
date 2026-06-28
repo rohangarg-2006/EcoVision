@@ -34,7 +34,7 @@ function App() {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.8)]"></span>
               </span>
               <span className="text-xs font-black uppercase tracking-[0.15em] text-emerald-50">
-                Solid Waste Management System
+                EcoVision: AI-Based Waste Management Platform
               </span>
             </div>
           </div>

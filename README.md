@@ -1,4 +1,4 @@
-# ♻️ Solid Waste Management Application
+# ♻️ EcoVision: AI-Based Waste Management Platform
 
 A full-stack web application for reporting and managing municipal solid waste requests, built as a Backend Developer (Intern) assignment.
 
